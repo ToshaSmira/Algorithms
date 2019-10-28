@@ -158,6 +158,8 @@
   <ItemGroup>
     <ClInclude Include="base.h" />
     <ClInclude Include="Drawer.h" />
+    <ClInclude Include="error.h" />
+    <ClInclude Include="PositionEnum.h" />
     <ClInclude Include="RandomArray.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

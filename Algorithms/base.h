@@ -2,8 +2,8 @@
 constexpr auto PROGRAM_NAME = "Algorithms";
 
 //view settings
-constexpr auto WIDTH = 300;
-constexpr auto HEIGHT = 185;
+constexpr auto WIDTH = 30;
+constexpr auto HEIGHT = 10;
 
 //control keys
 constexpr auto ESC = 27;

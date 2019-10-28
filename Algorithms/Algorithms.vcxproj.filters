@@ -31,6 +31,9 @@
     <Filter Include="Source Files\Implementation\Helpers">
       <UniqueIdentifier>{7f1200af-d0d1-4513-939b-52b18fa9ad88}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\Enums">
+      <UniqueIdentifier>{374da429-69d2-4baa-96b2-d7c3e822031a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Algorithms.cpp">
@@ -52,6 +55,12 @@
     </ClInclude>
     <ClInclude Include="RandomArray.h">
       <Filter>Header Files\Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="PositionEnum.h">
+      <Filter>Header Files\Enums</Filter>
+    </ClInclude>
+    <ClInclude Include="error.h">
+      <Filter>Header Files\Constant</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
